@@ -33,5 +33,4 @@ My name is Charaf-Ed-Dine El Fattahi, aka Charaf, and I am a physicist and finan
 
 ### Analytics ⚙️
 
-<p style="text-align: center;"> ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devCharaf&theme=radical&langs_count=10&count_private=true) </p>
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devCharaf&theme=radical&langs_count=10&count_private=true)
