@@ -28,7 +28,7 @@ My name is Charaf-Ed-Dine El Fattahi, aka Charaf, and I am a physicist and finan
 ### Languages & Tools 🛠  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![C++](https://img.shields.io/badge/-C++-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=green)&nbsp;
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&color=yellow)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=blue)&nbsp;  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&color=blueviolet)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=blue)&nbsp;  
 
 
 ### Analytics ⚙️
